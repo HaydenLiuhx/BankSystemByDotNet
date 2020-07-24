@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9C6687B9-5933-4212-A310-155DC81C5231}|Default">
+  <MonoDevelop.Ide.ItemProperties.13091172__BankManageSys PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bank.cs">
+    <Files>
+      <File FileName="Account.cs" Line="6" Column="18" />
+      <File FileName="Program.cs" Line="8" Column="11" />
+      <File FileName="Bank.cs" Line="414" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="13091172_BankManageSys" expanded="True">
+            <Node name="13091172_BankManageSys" expanded="True">
+              <Node name="_13091172_BankManageSys" expanded="True">
+                <Node name="_13091172_BankManageSys.Bank.FindAccountNo" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

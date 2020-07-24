@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_13091172_BankManageSys</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="T4Template.cs" />
+    <Compile Remove="EmptyClass.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/obj/Debug/netcoreapp2.1/13091172_BankManageSys.csprojAssemblyReference.cache
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/obj/Debug/netcoreapp2.1/13091172_BankManageSys.csproj.CoreCompileInputs.cache
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/obj/Debug/netcoreapp2.1/13091172_BankManageSys.AssemblyInfoInputs.cache
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/obj/Debug/netcoreapp2.1/13091172_BankManageSys.AssemblyInfo.cs
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/bin/Debug/netcoreapp2.1/13091172_BankManageSys.deps.json
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/bin/Debug/netcoreapp2.1/13091172_BankManageSys.runtimeconfig.json
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/bin/Debug/netcoreapp2.1/13091172_BankManageSys.runtimeconfig.dev.json
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/bin/Debug/netcoreapp2.1/13091172_BankManageSys.dll
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/bin/Debug/netcoreapp2.1/13091172_BankManageSys.pdb
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/obj/Debug/netcoreapp2.1/13091172_BankManageSys.dll
+/Users/liuhuangxun/Projects/13091172_BankManageSys/13091172_BankManageSys/obj/Debug/netcoreapp2.1/13091172_BankManageSys.pdb
